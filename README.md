@@ -9,7 +9,7 @@ Iniciando nessa aréa  de Projetos e Tecnologia. Aperfeiçoando cada vez mais mi
 
 ### Projeto 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipedasilva000&repo=Tik-Tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Felipedasilva000&repo=Tik-Tok-Project&theme=clear)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
