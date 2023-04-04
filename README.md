@@ -3,7 +3,7 @@
 ###### Sobre o Felipe
 Iniciando nessa aréa  de Projetos e Tecnologia. Aperfeiçoando cada vez mais minhas habilidades.
 
-### Detalhes
+###  Detalhes
 
 [![ Estatísticas do GitHub de Anurag ](https://github-readme-stats.vercel.app/api?username=Felipedasilva000&show_icons=true&theme=clear)](https://github.com/anuraghazra/github-readme-stats)
 
